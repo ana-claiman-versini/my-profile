@@ -1,0 +1,117 @@
+body {
+	background-color: #EEE9DA;
+	color: #567189;
+	font-size: 17px;
+	line-height: 1.6;
+	letter-spacing: 2,5px;
+	font-weight: lighter;
+	<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Lora&family=Poppins:wght@200&display=swap" rel="stylesheet">
+	p {
+		text-justify: center;
+	}
+}
+
+h1, h2 {
+	font-family: 'Lora', serif;
+}
+
+h1 {
+	color: #6096B4;
+	font-size: 27px;
+	font-weight: 550;
+}
+
+h2 {
+	color: #93BFCF; 
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+a {
+	text-decoration: none;
+	color: #BDCDD6;
+	font-weight: bolder;
+}
+a:hover {
+	color: black;
+}
+
+div {
+	background: #EEE9DA;
+	margin: 10px; 
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+<div style="
+    width: 700px;
+    margin: 40px auto;
+    "></div>
+
+element.style {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.container {
+		width: 700px;
+		margin: 40px auto;
+	}
+
+@media (maw-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}
+
+#logo {
+	width: 80px;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.shadowed {
+	box-shadow: 4px 3px 2px black;
+}
+
+.btn-blu {
+	background-color: blue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 50%;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: opx;
+	padding: 10px;
+}
+
+.list-inline li {
+	display: inline;
+}
+
+.list-inline i {
+	font-size: 50px;
+}
+
+.list-inline i:hover {
+	color: black;
+}
+
+selector {
+	property: value;
+
+}
+
+
+
+
+
+color : rgb (255, 83, 13);
